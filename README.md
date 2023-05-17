@@ -1,7 +1,7 @@
 # LH
 Land and Housing for Reptiles and Amphibians
 
-초호화 도마뱀 호텔 아이디어 노트 *__*
+초호화 도마뱀 호텔 아이디어 노트 +__+
 
 HW
 1. 하드웨어 모듈화!
